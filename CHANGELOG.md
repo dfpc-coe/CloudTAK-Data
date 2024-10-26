@@ -12,7 +12,11 @@
 
 ### Pending Release
 
+### v1.1.0
+
+- :rocket: Add Basemaps
+
 ### v1.0.0
 
-- :rcoket: Initial Config
+- :rocket: Initial Config
 
