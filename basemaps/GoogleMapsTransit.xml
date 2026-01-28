@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <customMapSource>
-  <name>Google Maps</name>
+  <name>Google Maps Transit</name>
   <minZoom>0</minZoom>
   <maxZoom>18</maxZoom>
   <tileType>png</tileType>
   <tileUpdate>None</tileUpdate>
-  <url>https://mts1.google.com/vt/lyrs=m&amp;hl=en&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;s=Gal&amp;apistyle=s.t:2|s.e:l|p.v:off</url>
+  <url>https://mt0.google.com/vt/lyrs=m,transit&amp;hl=en&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;apistyle=s.t:2|s.e:l|p.v:off</url>
   <backgroundColor>#000000</backgroundColor>
 </customMapSource>
